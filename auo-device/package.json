@@ -1,5 +1,5 @@
 {
-  "name": "auo-device-manager",
+  "name": "auo-device",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -8,17 +8,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "/src/Entry.vue": "*",
-    "@/pages": "*",
-    "undefined": "0.1.0",
-    "vue": "3.3.4",
-    "vue-router": "4.2.4"
+    "vue": "^3.3.4"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^4.3.1",
-    "autoprefixer": "^10.4.15",
-    "postcss": "^8.4.29",
-    "tailwindcss": "^3.3.3",
     "vite": "^4.4.9"
   }
 }
